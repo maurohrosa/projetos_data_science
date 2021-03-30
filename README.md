@@ -7,7 +7,10 @@
 
 Entusiasta e estudante de data science, possuo mais de 10 anos de experiência de planejamento estratégico em empresas multinacionais de grande porte, com criação e analise de KPI´s.
 
-**Background in:** Transformar Dados em informação para insights e geração de valor. Planejamento Estratégico, Planejamento de Negócios e entusiaste em Data Science e Python.
+**Background in:** Transformar Dados em informação para novos insights e geração de valor.
+* Planejamento Estratégico.
+* Planejamento de Negócios
+* Entusiaste em Data Science e Python.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/maurorosa)
