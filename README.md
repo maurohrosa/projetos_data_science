@@ -20,7 +20,7 @@ Entusiasta e estudante de data science, possuo mais de 10 anos de experiência d
 ## Projetos:
 Veja os principais projetos publicados até o momento:
 
-* *Análise dos Dados do Airbnb - Viena, Áustria.
+* Análise dos Dados do Airbnb - Viena, Áustria.
 ---
 
 
