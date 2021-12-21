@@ -22,6 +22,7 @@ Veja os principais projetos publicados até o momento:
 
 * Análise dos Dados do Airbnb - Viena, Áustria.
 * Análise dos Dados de Covid-19.
+* Detecção de Fraudes em Cartões de Crédito.
 ---
 
 
